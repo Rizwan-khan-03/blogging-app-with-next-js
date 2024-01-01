@@ -42,4 +42,4 @@ how to set up and run Blogging-App with Next.js app. locally.
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-nextjs-app.git
+   git clone https://github.com/Rizwan-khan-03/blogging-app-with-next-js.git
